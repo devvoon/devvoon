@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @devvoon
-- 👀 I’m interested in Server Developement using JAVA Spring + JPA.
-- 🌱 I’m currently learning Apppliation Developement. because I'm interested in lunch appliation made by me!
+- 👋 Hi, I’m @devvoon. I'm Server Developer using JAVA Spring + JPA.
+- 👀 I’m interested in lunching mobile application.
+- 🌱 I’m currently learning appplication developement and python.
+- 🏠 My Tech Blog is https://devvoon.github.io/
 - 📫 How to reach me iamdawoonjeong@gmail.com
