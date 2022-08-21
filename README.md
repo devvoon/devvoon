@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devvoon. I'm Server Developer using JAVA Spring + JPA.
+- 👋 Hi, I’m @devvoon. I'm Server Developer using JAVA Spring + Mybatis + JPA + SQL.
 - 👀 I’m interested in lunching mobile application.
 - 🌱 I’m currently learning appplication developement and python.
 - 🏠 My Tech Blog is https://devvoon.github.io/
